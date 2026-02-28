@@ -44,20 +44,20 @@
 
 | Overview | In Detail |
 |--------|----------|
-| ![Contributions](https://streak-stats.demolab.com?user=Almas-Ali&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+| ![Contributions](https://streak-stats.demolab.com?user=FBlinker&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=FBlinker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
 
 ---
 
 | Overview | In Detail | Repositories |
 |--------|----------|-------------------|
-| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Almas-Ali&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/repos?time_range=all_time&include_private=true&theme=synthwaves) |
+| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=FBlinker&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/FBlinker/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/FBlinker/repos?time_range=all_time&include_private=true&theme=synthwaves) |
 
 ---
 
 </p>
 
 
-![Almas-Ali Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Almas-Ali&theme=vue) 
+![FBlinker Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FBlinker&theme=vue) 
 
 ---
 
@@ -69,7 +69,7 @@
 
 ## Languages and Tools:
 
-<a href="https://github.com/Almas-Ali"><img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=3000&random=false&width=620&lines=Transforming+ideas+into+innovation%2C+one+line+of+Python+at+a+time." alt="Typing SVG" /></a>
+<a href="https://github.com/FBlinker"><img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=3000&random=false&width=620&lines=Transforming+ideas+into+innovation%2C+one+line+of+Python+at+a+time." alt="Typing SVG" /></a>
 
 <a href="https://www.w3.org/html/" target="_blank"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"
