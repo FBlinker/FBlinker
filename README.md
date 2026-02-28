@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Almas-Ali&theme=tokyonight" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FBlinker&theme=tokyonight" alt="Profile Details"/>
 </p>
 
 <p align="center">
